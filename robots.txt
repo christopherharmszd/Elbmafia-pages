@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /studio
+Disallow: /backstage
+Sitemap: https://elbmafia.de/sitemap.xml
